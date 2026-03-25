@@ -1,4 +1,6 @@
 # bmi_calculator
+<img width="459" height="888" alt="image" src="https://github.com/user-attachments/assets/eec03a49-d231-483b-93d2-5518be02bc7e" />
+<img width="438" height="876" alt="image" src="https://github.com/user-attachments/assets/adfd16cc-16f7-4c31-858f-9821cad987b7" />
 
 A new Flutter project.
 
